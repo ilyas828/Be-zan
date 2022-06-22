@@ -1,0 +1,273 @@
+body{
+   margin:0%;
+   font-family: Verdana, Geneva, Tahoma, sans-serif
+   
+}
+.logo{
+    width: 226px;
+    height: 66px;
+    padding: 10px;
+   
+}
+.maintab{
+
+    
+    width: 1349px;
+    height: 88px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-bottom: 1px solid #d4c8c8;
+    position: fixed;
+    background-color: white;
+    
+}
+.button{
+    padding: 10px;
+    width: 171px;
+    height: 66px;
+    align-items: center;
+    padding-top: 35px;
+}
+.buttoninside{
+    background-color:#EA7C38 ;
+     color: white;
+      border: none; 
+      width: 171px;
+      height: 40px;
+      font-size: 16px;
+    padding: 8px;
+   
+
+}
+#tittle0{
+    width: 608px;
+    height: 66px;
+    
+    display: flex;
+    align-content: center;
+    align-items: center;
+    padding: 10px;
+    justify-content: space-evenly;
+
+}
+.tittle{
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+.secondtab{
+    display: flex;
+    width: 100% px;
+    height: 506px;
+    padding-top: 115px;
+    padding-bottom: 13px;
+    justify-content: center;
+}
+.tittle1{
+    width: 650px;
+    height: 465px;
+    padding: 10px;
+    padding-top: 42px;
+}
+.tittle-1{
+    justify-content: space-evenly;
+    list-style: none;
+    display: flex;
+    text-align: center;
+}
+.image{
+    width: 378px;
+    height: 445px;
+    padding: 10px;
+}
+.button2{
+    width: 195px;
+    height: 40px;
+    background:#EA7C38 ;
+    font-size: 16px;
+    color: #ffff;
+    border-color: white;
+}
+.thirdtab{
+    width: 100% px;
+    height: 320px;
+    padding-top: 53px;
+    padding-bottom: 53px;
+    background-color: #ffecdb;
+    display: flex;
+    display: flex;
+    justify-content: space-evenly;
+}
+.inner3{
+  
+  
+    width: 1109px;
+    height: 320px;
+    float: left;
+ 
+}
+.innerlittle2{
+    display: flex;
+    justify-content: space-evenly;
+   
+  
+}
+#tittle2-2{
+  padding-left: 218px;
+  font-size: 40px;
+
+  
+}
+.text2-2{
+    text-align: center;
+
+}
+
+.forth{
+    width: 100%;
+    height: 450px;
+}
+
+.fiveth{
+    width: 100% px;
+    height: 622px;
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+}
+.fiveth1{
+    width: 1109px;
+    height: 582px;
+}
+.fiveth1-1{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+.fiveth2-1{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.sixth{
+ width: 100% px;
+ height: 895px;
+ display: flex;
+ justify-content: center;
+
+}
+.sixth1-1{
+    display: flex;
+    text-align: left;
+}
+.sixth2-1{
+    display: flex;
+    text-align: left;
+    padding-top: 22px;
+}
+.sixth1-1-1,.sixth1-1-2,.sixth2-2-1,.sixth2-2-2{
+    padding: 10px;
+
+}
+.seventh{
+    width: 100% px;
+    height: 500px;
+    padding-top: 55px;
+    padding-bottom: 55px;
+    background-color: #12888c;
+}
+.seventh1{
+   
+    text-align: center;
+    color: white;
+
+}
+.seventh1-1{
+    display: flex;
+    color: white;
+    text-align: center;
+    justify-content: space-evenly;
+  
+}
+.eight{
+    width: 1289px;
+    height: 365px;
+    padding-top: 55px;
+    padding-bottom: 55px;
+    padding-left: 60px;
+}
+.eight1{
+    width: 1130px;
+    height: 456px;
+    text-align: center;
+}
+.nine{
+    width: 1194px;
+    height: 207px;
+    padding-top: 55px;
+    padding-bottom: 55px;
+    background-image: url(images/backbround1.jpg);
+    background-size: cover;
+    text-align: center;
+    padding-left: 155px;
+  
+
+
+}
+.nine1{
+    width: 1070px;
+    height: 207px;
+}
+.nine1-2{
+    width: 1070px;
+    height: 40px;
+}
+.ninebutton{
+    width: 254px;
+    height: 40px;
+    font-weight: bold;
+    border: none;
+    font-size: 15px;
+}
+.ten{
+    padding-left: 145px;
+    width: 100% px;
+    height: 310px;
+    padding-top: 55px;
+    background-color: #2A2A2A;
+    color: white;
+    display: flex;
+
+}
+.ten1{
+    width: 620px;
+    height: 270px;
+}
+.buttonten{
+    margin-left: 8PX;
+    width: 67px;
+    height: 46px;
+    background-color: #EA7C3B;
+    font-size: 14px;
+  
+}
+.ten2{
+    width: 260px;
+    height: 270px;
+    padding-top: 40px;
+    color: white;
+}
+.ten2-1{
+    letter-spacing: 12px;
+    font-size: 25px;
+    
+}
+.ten3{
+    width: 190px;
+    height: 27px;
+    padding-top: 40px;
+    color: white;
+}
